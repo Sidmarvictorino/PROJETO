@@ -4,4 +4,6 @@
 Tecnologias usada:
 - HTML
 - CSS
+
+  <img src="https://github.com/Sidmarvictorino/PROJETO/blob/main/We%20Care.png?raw=true">
   
